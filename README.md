@@ -12,17 +12,17 @@
 - 🛠️ Outils : Git, VS Code, Figma.
 - 📈 SEO et Optimisation des performances web
 
-### Mon parcours
+### Statistiques GitHub
 
-J'ai commencé mon voyage en tant que développeur web il y a 2 années et depuis lors, j'ai travaillé sur de nombreux projets passionnants, de la création de sites web statiques à des applications web interactives. Mon expérience m'a permis de développer des compétences solides en résolution de problèmes, en collaboration d'équipe et en gestion de projets.
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Malcom-Yeoman&show_icons=true)](https://github.com/Malcom-Yeoman)
 
-### Mes passions
+### Compteur de Visiteurs
 
-En dehors du codage, j'adore explorer de nouvelles destinations de voyage à travers le monde. J'ai un véritable faible pour la photographie et je m'amuse à capturer des moments mémorables lors de mes voyages. La musique est également une grande partie de ma vie, que ce soit en jouant de la guitare ou en découvrant de nouveaux artistes et albums. En outre, je suis un amateur de cuisine passionné et j'aime expérimenter de nouvelles recettes pour créer des plats délicieux. Ces passions en dehors du travail enrichissent ma créativité et ma perspective, ce qui se reflète dans mon approche du développement web.
+![Visiteurs](https://hits.dwyl.com/Malcom-Yeoman/Malcom-Yeoman.svg)
 
 ### Projets Récents
 
-[![Derniers projets](https://github-readme-stats.vercel.app/api?username=Malcom-Yeoman&show_icons=true)](https://github.com/malcomyeoman)
+[![Derniers projets](https://github-readme-stats.vercel.app/api/pin/?username=Malcom-Yeoman&repo=votre-repo)](https://github.com/malcomyeoman/votre-repo)
 
 ### Me contacter
 
