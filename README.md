@@ -22,7 +22,7 @@ En dehors du codage, j'adore explorer de nouvelles destinations de voyage à tra
 
 ### Projets Récents
 
-[![Derniers projets](https://github-readme-stats.vercel.app/api?username=malcomyeoman&show_icons=true)](https://github.com/malcomyeoman)
+[![Derniers projets](https://github-readme-stats.vercel.app/api?username=Malcom-Yeoman&show_icons=true)](https://github.com/malcomyeoman)
 
 ### Me contacter
 
