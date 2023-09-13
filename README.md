@@ -20,10 +20,6 @@
 
 ![Visiteurs](https://hits.dwyl.com/Malcom-Yeoman/Malcom-Yeoman.svg)
 
-### Projets Récents
-
-[![Derniers projets](https://github-readme-stats.vercel.app/api/pin/?username=Malcom-Yeoman&repo=votre-repo)](https://github.com/malcomyeoman/votre-repo)
-
 ### Me contacter
 
 📫 Vous pouvez me joindre par e-mail à malcomydev@gmail.com ou me suivre sur [LinkedIn](https://www.linkedin.com/in/votreprofillinkedin). Je suis toujours ouvert aux discussions sur le développement web, la collaboration sur des projets intéressants ou simplement pour discuter de notre passion commune.
