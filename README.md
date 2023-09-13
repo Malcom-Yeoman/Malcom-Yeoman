@@ -25,3 +25,5 @@ En dehors du codage, j'adore explorer de nouvelles destinations de voyage à tra
 📫 Vous pouvez me joindre par e-mail à malcomydev@gmail.com ou me suivre sur LinkedIn. Je suis toujours ouvert aux discussions sur le développement web, la collaboration sur des projets intéressants ou simplement pour discuter de notre passion commune.
 
 N'hésitez pas à me contacter, je serais ravi de vous connaître et de discuter de toutes les choses liées au web !
+
+![Dernière activité](https://img.shields.io/github/last-commit/Malcom-Yeoman/votre-repo)
