@@ -12,10 +12,6 @@
 - 🛠️ Outils : Git, VS Code, Figma.
 - 📈 SEO et Optimisation des performances web
 
-### Statistiques GitHub
-
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Malcom-Yeoman&show_icons=true)](https://github.com/Malcom-Yeoman)
-
 ### Compteur de Visiteurs
 
 ![Visiteurs](https://hits.dwyl.com/Malcom-Yeoman/Malcom-Yeoman.svg)
