@@ -1,23 +1,25 @@
 # Malcom Yeoman
-## Développeur Web passionné
+## Développeur Web | Artisan du Code 🛠️
 
-👋 Salut, je suis Malcom, un développeur web enthousiaste qui aime créer des expériences web exceptionnelles. Mon objectif est de transformer des idées en code robuste et convivial.
+🔥 Passionné par le monde du développement web, je me lance sans cesse à la conquête de nouveaux challenges pour transformer l’imaginaire en pixels éblouissants.
 
-### Mes compétences
+### Mes Super-pouvoirs 🚀
+- 💻 **Langages magiques** : HTML, CSS, JavaScript, PHP.
+- 🌐 **Tapis volants (Frameworks)** : Symfony, Laravel, React, Tailwind, Bootstrap.
+- 🖥️ **Visionnaire** : UI/UX, Création d'expériences mémorables, Wireframing, Prototypage.
+- 🗃️ **Gardien des savoirs (Bases de données)** : MySQL
+- 🛠️ **Boîte à outils** : Git, VS Code, Figma.
+- 📈 **Sorcier du SEO** : Maîtrise des incantations pour l'optimisation et la performance.
 
-- 💻 Langages : HTML, CSS, JavaScript, php.
-- 🌐 Frameworks : Symfony, Laravel, React, Tailwind, Bootstrap.
-- 🖥️ Conception : UI/UX, Responsive Design, Wireframing, Prototypage
-- 🗃️ Bases de données : MySQL
-- 🛠️ Outils : Git, VS Code, Figma.
-- 📈 SEO et Optimisation des performances web
+### Éducation & Certifications 🎓
+- **O'Clock** : DWWM.
 
-### Compteur de Visiteurs
-
+### Compteur d'Aventuriers 🌟
 ![Visiteurs](https://hits.dwyl.com/Malcom-Yeoman/Malcom-Yeoman.svg)
 
-### Me contacter
+### Embarquez avec moi ! ⛵
+📫 **Contactez l'aventurier**: Envoyez-moi une carte postale numérique à malcomydev@gmail.com ou trouvez-moi sur la boussole du web [LinkedIn](https://www.linkedin.com/in/votreprofillinkedin).
 
-📫 Vous pouvez me joindre par e-mail à malcomydev@gmail.com ou me suivre sur [LinkedIn](https://www.linkedin.com/in/votreprofillinkedin). Je suis toujours ouvert aux discussions sur le développement web, la collaboration sur des projets intéressants ou simplement pour discuter de notre passion commune.
+Que ce soit pour un voyage au cœur du web, collaborer sur une quête épique ou simplement partager un feu de camp autour de notre passion, je suis là !
 
-N'hésitez pas à me contacter, je serais ravi de vous connaître et de discuter de toutes les choses liées au web !
+À bientôt dans la Matrice ! 🌌
