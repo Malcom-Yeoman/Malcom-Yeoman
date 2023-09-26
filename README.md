@@ -18,7 +18,7 @@
 ![Visiteurs](https://hits.dwyl.com/Malcom-Yeoman/Malcom-Yeoman.svg)
 
 ### Embarquez avec moi ! ⛵
-📫 **Contactez l'aventurier**: Envoyez-moi une carte postale numérique à malcomydev@gmail.com ou trouvez-moi sur la boussole du web [LinkedIn][(https://www.linkedin.com/in/malcom-yeoman-078b85233/)]
+📫 **Contactez l'aventurier**: Envoyez-moi une carte postale numérique à malcomydev@gmail.com ou trouvez-moi sur la boussole du web [LinkedIn]
 
 Que ce soit pour un voyage au cœur du web, collaborer sur une quête épique ou simplement partager un feu de camp autour de notre passion, je suis là !
 
