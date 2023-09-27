@@ -4,7 +4,7 @@
 🔥 Passionné par le monde du développement web, je me lance sans cesse à la conquête de nouveaux challenges pour transformer l’imaginaire en pixels éblouissants.
 
 ### Mes Super-pouvoirs 🚀
-- 💻 **Langages magiques** : HTML, CSS, JavaScript, PHP.
+- 💻 **Langages magiques** : HTML, CSS, JavaScript, PHP, Python.
 - 🌐 **Tapis volants (Frameworks)** : Symfony, Laravel, React, Tailwind, Bootstrap.
 - 🖥️ **Visionnaire** : UI/UX, Création d'expériences mémorables, Wireframing, Prototypage.
 - 🗃️ **Gardien des savoirs (Bases de données)** : MySQL
